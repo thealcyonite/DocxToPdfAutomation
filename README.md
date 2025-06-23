@@ -68,7 +68,4 @@ Once your Quick Action is saved, you can use it by doing the following:
 3. Click on **your custom action** (e.g., _“Docx to PDF”_) to run it
 
 ## In conclusion
-If everything is set up correctly, you now have an incredibly convenient Quick Action that can convert a single .docx file or an entire batch into high-fidelity PDFs with just a 2~3 clicks. 
-
-## GitHub
-We’ve included the AppleScript used in this tutorial in our [GitHub repository](https://github.com/thealcyonite/DocxToPdfAutomation). Feel free to use it as-is, modify it to suit your needs, or improve upon it however you like.
+If everything is set up correctly, you now have an incredibly convenient Quick Action that can convert a single .docx file or an entire batch into high-fidelity PDFs with just a 2~3 clicks.
